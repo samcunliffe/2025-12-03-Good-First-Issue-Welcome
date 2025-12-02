@@ -7,9 +7,9 @@ theme: default
 
 <br/><br/><br/><!-- aesthetic vspace so the title isn't too close to the UCL banner -->
 
-# ARC-CCMI Winter Good First Issue Hackathon
+# ARC-CCMI Winter Open-source good-first-issue hackathon
 
-## [@samcunliffe](https://github.com/samcunliffe) [@mscroggs](https://github.com/mscroggs) [@dpshelio](https://github.com/dpshelio/) [@paddyroddy](https://github.com/paddyroddy)
+### [@samcunliffe](https://github.com/samcunliffe) [@mscroggs](https://github.com/mscroggs) [@dpshelio](https://github.com/dpshelio/) [@paddyroddy](https://github.com/paddyroddy)
 
 2025-12-03
 
