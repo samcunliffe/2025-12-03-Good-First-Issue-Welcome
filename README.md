@@ -11,4 +11,3 @@ If you're not a member of UCL, please remove the UCL logo and rebrand for your o
 Logos are trademarks and have different reuse guidelines:
 
 - [The UCL logo](https://www.ucl.ac.uk/brand/brand-essentials/ucl-logo).
-- The Open Source Initiative "Keyhole logo" [usage guidelines](https://opensource.org/logo-usage-guidelines) and [trademark guidelines](https://opensource.org/about/trademark-guidelines).
