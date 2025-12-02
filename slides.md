@@ -1,138 +1,88 @@
 ---
 marp: true
 theme: default
-style: |
-  .ccolumns {
-    display: grid;
-    grid-template-columns: 50% auto;
-    gap: 1rem;
-  }
 ---
 
 ![bg fit](assets/ucl-banner.png)
 
 <br/><br/><br/><!-- aesthetic vspace so the title isn't too close to the UCL banner -->
 
-<!-- if html tags appear then: https://github.com/marp-team/marpit/issues/178#issuecomment-511106762 -->
+# ARC-CCMI Winter Good First Issue Hackathon
 
+## [@samcunliffe](https://github.com/samcunliffe) [@mscroggs](https://github.com/mscroggs) [@dpshelio](https://github.com/dpshelio/) [@paddyroddy](https://github.com/paddyroddy)
 
-# Title of the talk
-
-First Author¹, Second Author²
-
-¹Centre for Advanced Research Computing, UCL.
-²Department of Collaborators, UCL.
-
-Conference, Location. 202Y-MM-DD.
+2025-12-03
 
 ---
 
 <!--
 paginate: true
-footer: F. Author, 202Y-MM-DD.
 -->
-
-# A basic slide with bullets
-
-- First point.
-- Second point.
-
----
-
-# Slide with bullets that appear
-
-<!-- prettier-ignore-start -->
-
-* I appear...
-* Then I appear...
-* Then **I** appear 🎉!
-
-<!-- prettier-ignore-end -->
-
----
-
-# Centered on a slide
-
-<center>
-
-Example of something centred.
-
-</center> 
-
----
-
-# Split bullet slide
-
-<br/>
-<div class="ccolumns">
-<div>
-
-- Bullet to the left
-
-</div>
-<div>
-
-- Bullet to the right
-
-</div>
-
----
-
-# Code
-
-```py
-
-def i_prefer_python() -> None
-    print("Obviously, I use type hints")
-    return
-
-```
-
-```c++
-
-int butWillWriteCppIfNeeded()
-{
-  return 1337;
-}
-
-```
-
----
 
 <!--
-_footer: the footer is different on this slide only
+![bg right fit](assets/qr-code.svg)
+
+# [bit.ly/first-open](https://bit.ly/first-open)
+
+
+---
+
 -->
 
-# Emoji are cool
+# Thank you for coming!
 
-- ❤️🎉✅
+The goal of this hackathon is to help new people make their first open-source contribution.
+This could be:
 
----
+- Fixing a bug. Adding a test.
+- Improving documentation.
+- Fixing broken links on a website.
+- ...
 
-# Maths
+A second goal is to work with someone you haven't worked with before!
 
-- An example of inline maths $e^{i\pi} = -1$
-- An example of display format maths:
+## Plan of action
 
-$$
-\widehat{f}(\xi) = \int_{-\infty}^{\infty} f(x)\ e^{-i 2\pi \xi x}\,dx.
-$$
-
-
----
-
-# Conclusions
-
-- One or two clear take-home points.
-- Don't overload your audience.
+Break up into small groups or pairs. Find something. Work on it.
 
 ---
 
-# Appendix
+# Rough outline of the "how"...
+
+Find a project and an issue you think you can fix. Looking for the ![h:1em](assets/good-first-issue-label.png) can help. Then read their contributor guidelines.
+
+If a project doesn't have contributor guidelines, a typical workflow is:
+
+1. [Fork] the project's repository, clone (`git clone`) your fork onto your laptop.
+2. Fix the issue.
+3. Commit (`git commit`) your fix, push to your fork (`git push`).
+4. Open a [pull request].
+
+Shout if you need help! There are at least 4 helpers around!
+
+[Fork]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+[pull request]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
 ---
 
-# Add appendix slides if needed
+# If you don't know what to work on
 
-- Delete all of this if you don't need it.
-- (Obviously)
+- Is there any software you actively use that you could contribute to?
+- Browse [ForGoodFirstIssue](https://forgoodfirstissue.github.com).
+- We have some ideas:
+  - [The Carpentries]: Markdown and HTML teaching material.
+  - [A big link to several UCL-related projects](https://github.com/search?q=repo%3AUCL%2Fopen-source+repo%3AFEniCS%2Fdolfinx+repo%3AFEniCS%2Fdolfinx+repo%3Aswcarpentry%2Fgit-novice+repo%3Aswcarpentry%2Fpython-novice-inflammation+repo%3Aswcarpentry%2Fr-novice-inflammation+repo%3Aneuroinformatics-unit%2Ffancylog+label%3A%22good+first+issue%22++repo%3Asunpy%2Fsunpy+-label%3A%22Effort+High%22+-label%3A%22Effort+Medium%22+is%3Aopen&type=issues).
+
+[The Carpentries]: https://github.com/search?q=label%3A%22good+first+issue%22+is%3Aopen+org%3Aswcarpentry+org%3Acarpentries+org%3Adatacarpentry+org%3Alibrarycarpentry&type=issues
+
+![bg right 90%](assets/qr-code.svg)
+
+---
+
+![bg right 90%](assets/outcomes-issue.png)
+
+# End
+
+If you're comfortable, please add a comment to [this issue](https://github.com/UCL-ARC/good-first-issue-hackathons/issues/10) with the URL(s) to any pull requests or issues you've created in this workshop!
+
+Thanks for coming!
