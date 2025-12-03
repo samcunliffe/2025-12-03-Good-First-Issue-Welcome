@@ -9,7 +9,7 @@ theme: default
 
 # ARC-CCMI Winter Open-source good-first-issue hackathon
 
-### [@samcunliffe](https://github.com/samcunliffe) [@mscroggs](https://github.com/mscroggs) [@dpshelio](https://github.com/dpshelio/) [@paddyroddy](https://github.com/paddyroddy)
+### [@samcunliffe](https://github.com/samcunliffe) [@mscroggs](https://github.com/mscroggs) [@dpshelio](https://github.com/dpshelio/) [@paddyroddy](https://github.com/paddyroddy) [@connoraird](https://github.com/connoraird)
 
 2025-12-03
 
@@ -72,6 +72,7 @@ Shout if you need help! There are at least 4 helpers around!
 - We have some ideas:
   - [The Carpentries]: Markdown and HTML teaching material.
   - [A big link to several UCL-related projects](https://github.com/search?q=repo%3AUCL%2Fopen-source+repo%3AFEniCS%2Fdolfinx+repo%3AFEniCS%2Fdolfinx+repo%3Aswcarpentry%2Fgit-novice+repo%3Aswcarpentry%2Fpython-novice-inflammation+repo%3Aswcarpentry%2Fr-novice-inflammation+repo%3Aneuroinformatics-unit%2Ffancylog+label%3A%22good+first+issue%22++repo%3Asunpy%2Fsunpy+-label%3A%22Effort+High%22+-label%3A%22Effort+Medium%22+is%3Aopen&type=issues).
+  - [A testing issue](https://github.com/SciKit-Surgery/scikit-surgerynditracker/issues/62), [another testing issue](https://github.com/glass-dev/glass/issues/839)
 
 [The Carpentries]: https://github.com/search?q=label%3A%22good+first+issue%22+is%3Aopen+org%3Aswcarpentry+org%3Acarpentries+org%3Adatacarpentry+org%3Alibrarycarpentry&type=issues
 
